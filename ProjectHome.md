@@ -1,0 +1,1 @@
+local server installed java project which will hit the AMAZON EC2 instance and google App engine sequentially with Rest call.
